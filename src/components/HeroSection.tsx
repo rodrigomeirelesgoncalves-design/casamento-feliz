@@ -1,5 +1,4 @@
 import heroBg from "@/assets/hero-couple.jpg";
-import logo from "@/assets/logo-casamento.png";
 
 const CHECKOUT_URL = "https://pay.kiwify.com.br/ZyI6S1d";
 
