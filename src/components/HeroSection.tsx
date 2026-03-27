@@ -17,12 +17,6 @@ const HeroSection = () => {
       </div>
 
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
-        <img
-          src={logo}
-          alt="O Casamento que dá certo"
-          className="mx-auto mb-8 w-64 md:w-80"
-          loading="eager"
-        />
 
         <h1 className="font-display text-3xl md:text-5xl lg:text-6xl font-bold text-primary-foreground mb-6 leading-tight">
           Transforme seu casamento em uma história de{" "}
